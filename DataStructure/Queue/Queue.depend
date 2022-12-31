@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672479167 source:c:\users\iti\desktop\datastructure\queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+
+1672479371 source:c:\users\iti\desktop\datastructure\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1672479239 c:\users\iti\desktop\datastructure\queue\queue.h
+
